@@ -1,0 +1,9 @@
+**/results/*
+
+**/vars.sh
+
+**/*-secrets.*
+
+**/.DS_Store
+
+**/*.log

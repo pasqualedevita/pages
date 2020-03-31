@@ -1,0 +1,10 @@
+{
+  "simulation": "io.ApigadPing",
+  "simulationId": "apigadping",
+  "start": 1585641514712,
+  "description": "ApigadPing",
+  "scenarios": ["apigad"],
+  "assertions": [
+
+  ]
+}
