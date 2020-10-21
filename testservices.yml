@@ -1,3 +1,987 @@
+#
+# Municipality of Campello sul Clitunno
+#
+
+01E9Z5M0N9FK3AQYXPZ4F0CKR9:
+  description: |
+    Il servizio di Pagamenti per Refezione Scolastica offre la possibilità di gestire dei pagamenti direttamente attraverso l'app. oltre alle normali modalità di pagamento già previste.
+    Tramite IO potrai:
+
+    * gestire il pagamento della mensa scolastica, ricevere avvisi e solleciti.
+
+  privacy_url: https://www.comune.campello.pg.it/pagine/privacy
+  web_url: https://www.comune.campello.pg.it/
+  phone: 0743 271927; 0743 271946
+  email: area.finanziaria@comune.campello.pg.it
+  pec: comune.campellosulclitunno@postacert.umbria.it
+  address: Piazza Ranieri Campello, 4 - Campello sul Clitunno
+  scope: LOCAL
+
+
+01E9Z5V0EK8HS8KZV0CB12421Z:
+  description: |
+    Il servizio di Pagamenti dei Tributi limitatamente alla IMU e alla TARI avviene tramite F24, l'App IO per tali tributi provvedera' a inviare solleciti di versamento e avvisi vari. Per gli altri tributi comunali, in particolar modo la TOSAP riferita la Mercatino dell'Antiquariatodi Pissignano, la stessa offre la possibilità di gestire avvisi e solleciti ed i pagamenti direttamente attraverso l'app. oltre alle normali modalità di pagamento già previste.
+    Tramite IO potrai:
+
+    * gestire il pagamento dei tributi comunali eccetto IMU e TARI la cui modalità rimane quella del F24, e ricevere comunicazioni e solleciti.
+
+  privacy_url: https://www.comune.campello.pg.it/pagine/privacy
+  web_url: https://www.comune.campello.pg.it/
+  phone: 0743 271927; 0743 271946
+  email: area.finanziaria@comune.campello.pg.it
+  pec: comune.campellosulclitunno@postacert.umbria.it
+  address: Piazza Ranieri Campello, 4 - Campello sul Clitunno
+  scope: LOCAL
+
+#
+# Municipality of Cremona
+#
+
+01E983KMACRZ0MTWEKP6TVC0W6:
+  description: |
+    Il Comune di Cremona aderisce al Sistema PagoPA per il pagamento TARI per utenze domestiche.
+    Se ti sei registrato almeno 10 giorni prima della scadenza del pagamento, tramite IO potrai:
+
+    * effettuare il pagamento dell’acconto TARI 2020 in rata unica;
+    * effettuare il pagamento dell’acconto TARI 2020 in due rate separate;
+    * effettuare il pagamento del saldo TARI 2020.
+
+  privacy_url: https://www.comune.cremona.it/privacy
+  web_url: https://www.comune.cremona.it
+  phone: 0372 4071
+  email: tari@comune.cremona.it
+  pec: protocollo@comunedicremona.legalmail.it
+  address: Piazza del Comune, 8 - Cremona
+  scope: LOCAL
+
+#
+# Agenzia delle Entrate
+#
+01EB8AXKNV6NMSP2R25KSGF743:
+  description: |
+    L’incentivo per supportare le famiglie e il settore del turismo dopo il lockdown richiesto dal COVID-19.
+    Tramite IO potrai:
+    * Richiedere e attivare il Bonus Vacanze dalla [sezione pagamenti](ioit://WALLET_HOME)
+    * Visualizzare il Bonus Vacanze per spenderlo presso una stuttura ricettiva
+    * Condividere il Bonus Vacanze con gli altri beneficiari del tuo nucleo familiare.
+  privacy_url: https://io.italia.it/app-content/bonus_vacanze_tos.html
+  support_url: https://helpdesk.bonus-vacanze.org/hc/it
+  scope: NATIONAL
+
+#
+# Municipality of Novellara
+#
+
+01E6C1NPEK6475G10YRJ139JJG:
+  description: |
+    I servizi anagrafici si occupano della gestione dei tuoi documenti d'identità. Tramite IO potrai:
+
+    * ricevere un promemoria in prossimità della scadenza del tuo documento d'identità, e prenotare un appuntamento per ottenere il nuovo documento;
+    * procedere al pagamento della nuova CIE (carta di identità elettronica).
+
+  privacy_url: https://www.comune.novellara.re.it/servizi/gestionedocumentale/visualizzadocumento.aspx?ID=26654
+  web_url: http://www.comune.novellara.re.it/servizi/procedimenti/ricerca_fase03.aspx?ID=8738
+  phone: 0522 655454
+  email: urp@comune.novellara.re.it
+  pec: novellara@cert.provincia.re.it
+  address: P.le Marconi, 1 - Novellara
+  scope: LOCAL
+
+#
+# Municipality of Sommacampagna
+#
+
+01EDVBSFKB1WHWHJW915SYER7F:
+  description: |
+    Il servizio di Pagamenti per i servizi demografici offre la possibilità di gestire dei pagamenti direttamente attraverso l'app IO (oltre alle normali modalità di pagamento già previste). 
+    Tramite IO potrai ricevere avvisi per:
+
+    * pagamento delle concessioni cimiteriali;
+    * pagamento dei servizi cimiteriali;
+    * pagamento dei diritti di segreteria su certificazioni anagrafiche;
+    * pagamento dei diritti di emissione carte d'identità.
+
+  privacy_url: https://www.comune.sommacampagna.vr.it/home/info/privacy.html
+  web_url: https://sommacampagna.comune.plugandpay.it
+  phone: 045 8971340
+  email: servizi.demografici@comune.sommacampagna.vr.it
+  pec: sommacampagna.vr@cert.ip-veneto.net
+  address: Piazza Carlo Alberto, 1 - 37066 Sommacampagna
+  scope: LOCAL
+
+
+01EDVC0034TXCADN1XFY4375VS:
+  description: |
+    Il servizio di Pagamenti per i servizi scolastici  offre la possibilità di gestire dei pagamenti direttamente attraverso l'app IO (oltre alle normali modalità di pagamento già previste). 
+    Tramite IO potrai ricevere avvisi per:
+
+    * pagamento delle Trasporto scolastico;
+    * pagamento della mensa scuola infanzia;
+    * pagamento della mensa scuola primaria;
+    * pagamento delle attività estive ed extrascolastiche.
+
+  privacy_url: https://www.comune.sommacampagna.vr.it/home/info/privacy.html
+  web_url: https://sommacampagna.comune.plugandpay.it
+  phone: 045 8971386
+  email: servizi.scuola@comune.sommacampagna.vr.it
+  pec: sommacampagna.vr@cert.ip-veneto.net
+  address: Piazza Carlo Alberto, 1 - 37066 Sommacampagna
+  scope: LOCAL
+
+
+01EDVC3RWMJV1NT9YH4J141B9S:
+  description: |
+    Il servizio di Pagamenti per i servizi tributi  offre la possibilità di gestire dei pagamenti direttamente attraverso l'app IO (oltre alle normali modalità di pagamento già previste). 
+    Tramite IO potrai ricevere avvisi per:
+
+    * pagamento della TOSAP;
+    * pagamento delle Tabelle Passo Carraio.
+
+  privacy_url: https://www.comune.sommacampagna.vr.it/home/info/privacy.html
+  web_url: https://sommacampagna.comune.plugandpay.it
+  phone: 045 8971335
+  email: ufficio.tributi@comune.sommacampagna.vr.it
+  pec: sommacampagna.vr@cert.ip-veneto.net
+  address: Piazza Carlo Alberto, 1 - 37066 Sommacampagna
+  scope: LOCAL
+
+#
+# Municipality of Carinaro
+#
+
+01EEA5C29SJEE918D2AE1SH68H:
+  description: |
+    Il servizio di avviso scadenza TARI permette di ricevere un promemoria alla scadenza del pagamento della TARI.
+
+  privacy_url: http://www.comune.carinaro.ce.it/carinaro/area_gen/demografico/privacy.jsp
+  web_url: http://www.comune.carinaro.ce.it
+  phone: 081 5029209
+  email: elena.barbato@comune.carinaro.ce.it
+  pec: elena.barbato@carinaro.telecompost.it
+  address: P.zza Municipio, 1 - Carinaro
+  scope: LOCAL
+
+#
+# Municipality of Villaricca
+#
+
+01EDY252DS9HTNNHRJ83PRXAVA:
+  description: |
+    Il servizio di avviso scadenza TOSAP permette di ricevere un promemoria alla scadenza del pagamento della Tosap.
+
+  privacy_url: http://www.comune.villaricca.na.it/privacy.html
+  web_url: http://asp.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n200095
+  phone: 081 8191111
+  email: vittoriaferrara@comune.villaricca.na.it
+  address: Corso Vittorio Emanuele, 76 - 80010 Villaricca Napoli
+  scope: LOCAL
+
+01EDY3N93S3WR6ZTP5G1WZ9YG9:
+  description: |
+    Il servizio di avviso scadenza TARI permette di ricevere un promemoria alla scadenza del pagamento della TARI.
+
+  privacy_url: http://www.comune.villaricca.na.it/privacy.html
+  web_url: http://asp.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n200095
+  phone: 081 8191111
+  email: vittoriaferrara@comune.villaricca.na.it
+  address: Corso Vittorio Emanuele, 76 - 80010 Villaricca Napoli
+  scope: LOCAL
+
+#
+# Municipality of Russi
+#
+
+01EHC41R5RKPCZCEPNF8A8XWWN:
+  description: |
+    Il servizio offre la possibilità di gestire i pagamenti dei servizi scolastici direttamente attraverso l'applicazione IO. Qui riceverai l’avviso pagoPA e potrai decidere come pagarlo:
+    * subito con l’app IO e la carta di credito;
+    * sul sito del Comune scegliendo tra carta di credito, addebito in conto e altri metodi. 
+
+    I codici presenti nell’avviso pagoPA ti permetteranno, in alternativa, di scegliere se pagare:
+    * con il tuo home banking;
+    * presso gli sportelli della tua banca;
+    * presso gli uffici postali;
+    * presso i punti vendita SISAL, Lottomatica e Banca 5.
+
+  phone: 0544 587648 
+  email: istruzione@comune.russi.ra.it 
+  pec: pg.comune.russi.ra.it@legalmail.it 
+  address: Via Cavour, 21 - Russi
+  scope: LOCAL
+
+#
+# Municipality of Preganziol
+#
+
+01D88CM09S0SB72B7AN92XGKPC:
+  description: |
+    Il servizio di Scadenza e Rinnovo Documenti offre la possibilità di conoscere lo stato dei tuoi documenti. 
+    Tramite IO potrai:
+
+    * ricevere un promemoria in prossimità della scadenza della tua carta d'identità;
+    * ricevere un avviso che ti ricorda che il permesso di soggiorno risulta scaduto da almeno 6 mesi e che devi esibire il nuovo permesso in anagrafe.
+
+  phone: 0422 632298 
+  email: anagrafe@comune.preganziol.tv.it 
+  pec: protocollo.comune.preganziol.tv@pecveneto.it 
+  address: Piazza Gabbin, 1 - Preganziol
+  scope: LOCAL
+
+#
+# Municipality of Grottaglie
+#
+
+01ED912D869F64PZCPR1XQR61E:
+  description: |
+    I Servizi Scolastici si occupano della gestione della mensa e del trasporto scolastico.  
+    Tramite IO potrai:
+
+    * pagare la mensa scolastica;
+    * pagare il trasporto scolastico;
+    * ricevere una conferma del pagamento avvenuto.
+
+  web_url: https://comune.grottaglie.ta.it/privacy-policy/
+  phone: 099 5620213 
+  email: istruzione@comune.grottaglie.ta.it
+  pec: istruzione.comunegrottaglie@pec.rupar.puglia.it 
+  address: Via Martiri d’Ungheria snc – 74023 Grottaglie (TA)
+  scope: LOCAL
+
+
+01EHC02SVSKQ2M97DDSY3HAJWN:
+  description: |
+    I Tributi Minori riguardano le concessioni di suolo pubblico, la pubblicità e le affissioni.   
+    Tramite IO potrai:
+
+    * pagare la COSAP Permanente e Temporanea;
+    * pagare le pubbliche affissioni;
+    * pagare l’Imposta Comunale sulla Pubblicità (ICP);
+    * ricevere una conferma del pagamento avvenuto.
+
+  web_url: https://comune.grottaglie.ta.it/privacy-policy/
+  phone: 099 5620248
+  email: tributi@comune.grottaglie.ta.it
+  pec: tributi.comunegrottaglie@pec.rupar.puglia.it
+  address: Via Martiri d’Ungheria snc – 74023 Grottaglie (TA)
+  scope: LOCAL
+
+
+01EHC0FY33PQFJXWQJ99K108J8:
+  description: |
+    I Servizi Demografici emettono le Carte di Identità e stilano atti vari che necessitano di Bollo.   
+    Tramite IO potrai:
+
+    * pagare la Carta d’Identità Elettronica o Cartacea;
+    * pagare il Bollo Virtuale per gli atti pubblici
+    * ricevere una conferma del pagamento avvenuto.
+
+  web_url: https://comune.grottaglie.ta.it/privacy-policy/
+  phone: 099 5620217
+  email: demografici@comune.grottaglie.ta.it
+  pec: anagrafe.comunegrottaglie@pec.rupar.puglia.it
+  address: Via Martiri d’Ungheria snc – 74023 Grottaglie (TA)
+  scope: LOCAL
+
+
+01EHC0HHDCT3WK0G04SFBMT44E:
+  description: |
+    I Servizi Cimiteriali si occupano delle concessioni per cappelle, loculi e quant’altro e gestiscono il servizio di lampade votive.   
+    Tramite IO potrai:
+
+    * pagare il canone Lampade Votive;
+    * ricevere una conferma del pagamento avvenuto.
+
+  web_url: https://comune.grottaglie.ta.it/privacy-policy/
+  phone: 099 5620280
+  email: ggdd@comune.grottaglie.ta.it
+  pec: ggdd.comunegrottaglie@pec.rupar.puglia.it
+  address: Via Martiri d’Ungheria snc – 74023 Grottaglie (TA)
+  scope: LOCAL
+
+#
+# Municipality of Cancello ed Arnone
+#
+
+01ECMDBNECKX2FQATF37TQNSYQ:
+  description: |
+    Il Servizio Tributi si occupa della gestione delle scadenze dei vari pagamenti. 
+    Tramite IO potrai:
+
+    * ricevere un promemoria  che ti avvisa della scadenza di pagamento della TARI, IMU, TOSAP;
+    * ricevere l'avviso di accertamento per il mancato pagamento di rate scadute, e pagare il relativo importo.  
+
+  privacy_url: https://www.comune.cancelloedarnone.ce.it/documenti/privacy.html
+  web_url: https://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=wt00002765&areaAttiva=1
+  phone: 0823 1257516
+  email: comunedicancelloedarnone@gmail.com 
+  pec: ragioneria.cancelloarnone@asmepec.it
+  address: Via Municipio, n. 1 - 1° Piano 
+  scope: LOCAL
+
+01ECMDCWM0CAC98HZS7WHJZQQ1:
+  description: |
+    Il Servizio Refezione Scolastica si occupa della gestione della mensa.  
+    Tramite IO potrai:
+
+    * ricevere un promemoria alla scadenza dell'iscrizione al servizio Refezione Scolastica;
+    * ricevere un promemoria alla scadenza dei Buoni Pasto.  
+
+  privacy_url: https://www.comune.cancelloedarnone.ce.it/documenti/privacy.html
+  web_url: https://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=wt00002765&areaAttiva=1
+  phone: 0823 1257515
+  email: comunedicancelloedarnone@gmail.com 
+  pec: segreteria.cancelloarnone@asmepec.it
+  address: Via Municipio, n. 1 - 1° Piano  
+  scope: LOCAL
+
+01EHY17SEV6YYG6Z1CSAQGM8MC:
+  description: |
+    Il Servizio di Anagrafe offre la possibilità di gestire i propri dati anagrafici, documenti in scadenza e dichiarazioni.  
+    Tramite IO potrai:
+
+    * essere informato sulla scadenza della tua carta d'identità;
+    * ricevere un avviso che ti ricorda che il permesso di soggiorno risulta scaduto da alemno 6 mesi e che devi esibire il nuovo permesso in anagrafe.   
+
+  privacy_url: https://www.comune.cancelloedarnone.ce.it/documenti/privacy.html
+  web_url: https://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=wt00002765&areaAttiva=1
+  phone: 0823 1257507
+  email: comunedicancelloedarnone@gmail.com 
+  pec: anagrafe.cancelloarnone@asmepec.it
+  address: Via Municipio, n. 1 - Piano Terra 
+  scope: LOCAL
+
+01EHY18EHZEDCTEHNF3T6RP49F:
+  description: |
+    Il Servizio Cimiteri si occupa della riscossione dei canoni della Luce votiva e delle spese condominiali dei loculi.  
+    Tramite IO potrai:
+
+    * ricevere un promemoria che ti avvisa della scadenza di pagamento dei canoni;
+    * ricevere l'avviso di accertamento per il mancato pagamento dei canoni, e pagare il relativo importo.   
+
+  privacy_url: https://www.comune.cancelloedarnone.ce.it/documenti/privacy.html
+  web_url: http://www.comune.cancelloedarnone.ce.it/
+  phone: 0823 856176
+  email: comunedicancelloedarnone@gmail.com 
+  pec: protocollo.cancelloarnone@asmepec.it
+  address: Via Municipio, n. 1  
+  scope: LOCAL
+
+01EHY18TQYNE7S325G7TEKF322:
+  description: |
+    Sportello Facile è un servizio on-line che consente a tutti i cittadini di effettuare delle prenotazioni di appuntamento presso diversi sportelli.  
+    Tramite IO potrai:
+
+    * ricevere un promemoria che ti ricorda data e orario di un appuntamento prenotato presso un ufficio comunale;
+    * essere notificato in caso di modifica o disdetta dell'appuntamento.   
+
+  privacy_url: https://www.comune.cancelloedarnone.ce.it/documenti/privacy.html
+  web_url: http://www.comune.cancelloedarnone.ce.it/
+  phone: 0823 856176
+  email: comunedicancelloedarnone@gmail.com 
+  pec: protocollo.cancelloarnone@asmepec.it
+  address: Via Municipio, n. 1  
+  scope: LOCAL
+
+#
+# Municipality of Cornuda
+#
+
+01EHWBMQ91QPTWECS5AW8W6W5P:
+  description: |
+    Il servizio di Pagamenti per i servizi cimiteriali offre la possibilità di gestire dei pagamenti direttamente attraverso l'app oltre alle normali modalità di pagamento già previste.
+    Tramite IO potrai ricevere avvisi per:                                                                                                                                                                                                            
+    * pagamento delle concessioni cimiteriali;
+    * pagamento dei diritti cimiteriali;
+    * pagamento del rimborso di cremazione.  
+
+  privacy_url: https://www.comune.cornuda.tv.it/home/info/privacy-policy.html
+  web_url: https://cornuda.comune.plugandpay.it/
+  phone: 0423 040400
+  email: segreteria@comune.cornuda.tv.it
+  pec: protocollo.comune.cornuda.tv@pecveneto.it
+  address: Piazza Giovanni XXIII 1 - 31041 Cornuda
+  scope: LOCAL
+
+01EHWBSWXBJ3ZW7BABKG8Y5TMB:
+  description: |
+    Il servizio di Pagamenti per i servizi al cittadino offre la possibilità di gestire dei pagamenti direttamente attraverso l'app oltre alle normali modalità di pagamento già previste.
+    Tramite IO potrai ricevere avvisi per:                                                                                                                                                                                                            
+    * pagamento del trasporto scolastico;
+    * pagamento del trasporto soggiorni climatici;
+    * pagamento dei centri estivi;
+    * pagamento della tassa di concorso;
+    * pagamento delle celebrazioni matrimoni;
+    * pagamento del servizio di assistenza domiciliare;
+    * pagamento della trasporto;
+    * pagamento dell'utilizzo sale pubbliche;
+    * pagamento della vendita legname.
+
+  privacy_url: https://www.comune.cornuda.tv.it/home/info/privacy-policy.html
+  web_url: https://cornuda.comune.plugandpay.it/
+  phone: 0423 040400
+  email: ragioneria@comune.cornuda.tv.it
+  pec: protocollo.comune.cornuda.tv@pecveneto.it
+  address: Piazza Giovanni XXIII 1 - 31041 Cornuda
+  scope: LOCAL
+
+#
+# Consorzio di Bonifica 3 Medio Valdarno
+#
+
+01EHSJ7H1KEE33PMJTMP670Z35:
+  description: |
+    Il servizio offre la possibilità di gestire i pagamenti direttamente attraverso l'app, oltre alle normali modalità di pagamento già previste. Tramite IO potrai ricevere avvisi per il pagamento di:
+
+    * contributo consortile;
+    * canone di concessione precaria.  
+
+  privacy_url: https://www.cbmv.it/privacy-policy
+  tos_url: https://www.cbmv.it/contributi-di-bonifica
+  phone: 800 672 242
+  email: contributi@cbmv.it
+  pec: info@pec.cbmv.it
+  address: Via del Cantone 135 - 50019 Sesto Fiorentino (FI)
+  scope: LOCAL
+
+#
+# Municipality of Rimini
+#
+
+01E7MGBS956ADAH12N65TQZ83A:
+  description: |
+    Il portale permette l'inoltro di istanze e dichiarazioni digitali per lo svolgimento di procedimenti che riguardano la Pubblica Amministrazione.
+    Tramite IO potrai: 
+
+    * ricevere notifica dell'avvenuta protocollazione dell'istanza e ricevere informazioni sul procedimento amministrativo.
+
+  privacy_url: https://www.comune.rimini.it/privacy
+  web_url: https://istanze-dichiarazioni.comune.rimini.it/
+  phone: 0541 704111
+  email: hd@comune.rimini.it
+  pec: protocollo.generale@pec.comune.rimini.it
+  address: Piazza Cavour 27 - 47921 Rimini
+  scope: LOCAL
+
+#
+# Municipality of Sarzana
+#
+
+01EA1R4S59VG36BPB7SDQXQKNN:
+  description: |
+    Il servizio informa il cittadino, impresa, professionista circa l'avvenuta richiesta di integrazioni prodotta dall'Ente in relazione al procedimento amministrativo avviato tramite portale e trasmesso per via telematica. 
+    Tramite IO potrai:
+
+    * ricevere eventuali avvisi di richiesta integrazione di una pratica precedentemente presentata.
+
+  privacy_url: https://www.comunesarzana.gov.it/privacy.html
+  web_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201753&areaAttiva=10
+  phone: +39 0187 6141 
+  email: urp@comunesarzana.gov.it
+  pec: protocollo.comune.sarzana@postecert.it
+  address: Piazza Matteotti, 1 - Sarzana
+  scope: LOCAL
+
+01EA1RD59JJPWY254P0FRT3VHC:
+  description: |
+    Il servizio di avvisi per gli Atti Amministrativi permette di ricevere informazioni legate alle attività delle sedute collegiali (es. Giunta e Consiglio). 
+    Tramite IO potrai:
+
+    * ricevere l'avviso di convocazione alle sedute in programma.
+
+  privacy_url: https://www.comunesarzana.gov.it/privacy.html
+  web_url: https://www.comunesarzana.gov.it/
+  phone: +39 0187 6141 
+  email: urp@comunesarzana.gov.it
+  pec: protocollo.comune.sarzana@postecert.it
+  address: Piazza Matteotti, 1 - Sarzana
+  scope: LOCAL
+
+#
+# Municipality of Sassuolo
+#
+
+01EM1AWDX0X4MWQW7D2FJHTC72:
+  description: |
+    Il servizio informa il cittadino sull'andamento delle domande online e sullo stato delle posizioni debitorie. 
+    Tramite IO potrai:
+
+    * ricevere un avviso di apertura delle iscrizioni ai servizi scolastici;
+    * ricevere un avviso di apertura di bandi per la richiesta di contributi;
+    * ricevere un messaggio relativo all'emissione di un avviso di pagamento;
+    * ricevere la conferma di documenti disponibili;
+    * ricevere un avviso di pre-ruolo.
+
+  privacy_url: https://www.comune.sassuolo.mo.it/footer/privacy
+  web_url: https://portale-sassuolo.entranext.it
+  phone: 0536 880801 
+  email: urp@comune.sassuolo.mo.it
+  pec: comune.sassuolo@cert.comune.sassuolo.mo.it
+  address: Via Fenuzzi, 5 - 41049 - Sassuolo
+  scope: LOCAL
+
+01EM1B5EX7RA6ER00KZYF7AEXG:
+  description: |
+    Il servizio informa il cittadino sull'andamento delle domande online e sullo stato delle posizioni debitorie. 
+    Tramite IO potrai:
+
+    * ricevere un avviso di apertura di bandi per la richiesta di contributi;
+    * ricevere un messaggio relativo all'emissione di un avviso di pagamento;
+    * ricevere la conferma di documenti disponibili;
+    * ricevere un avviso di pre-ruolo.
+
+  privacy_url: https://www.comune.sassuolo.mo.it/footer/privacy
+  web_url: https://portale-sassuolo.entranext.it
+  phone: 0536 880801 
+  email: urp@comune.sassuolo.mo.it
+  pec: comune.sassuolo@cert.comune.sassuolo.mo.it
+  address: Via Fenuzzi, 5 - 41049 - Sassuolo
+  scope: LOCAL
+
+#
+# Municipality of Prignano sulla Secchia
+#
+
+01EM1AYAV7Z5J41ZNNH7RSEQ5F:
+  description: |
+    Il servizio informa il cittadino sull'andamento delle domande online e sullo stato delle posizioni debitorie. 
+    Tramite IO potrai:
+
+    * ricevere un avviso di apertura delle iscrizioni ai servizi scolastici;
+    * ricevere un avviso di apertura di bandi per la richiesta di contributi;
+    * ricevere un messaggio relativo all'emissione di un avviso di pagamento;
+    * ricevere la conferma di documenti disponibili;
+    * ricevere un avviso di pre-ruolo.
+
+  privacy_url: https://www.comune.prignano.mo.it/footer/privacy
+  web_url: https://portale-prignanoss.entranext.it/
+  phone: 0536 892911
+  email: segreteria@comune.prignano.mo.it 
+  pec: comune.prignano@pec.it
+  address: via Mario Allegretti, 216 - 41048 - Prignano s/S
+  scope: LOCAL
+
+#
+# Municipality of Palagano
+#
+
+01EM1AZXRQ1PA5XKHHBN18W5C6:
+  description: |
+    Il servizio informa il cittadino sull'andamento delle domande online e sullo stato delle posizioni debitorie. 
+    Tramite IO potrai:
+
+    * ricevere un avviso di apertura delle iscrizioni ai servizi scolastici;
+    * ricevere un avviso di apertura di bandi per la richiesta di contributi;
+    * ricevere un messaggio relativo all'emissione di un avviso di pagamento;
+    * ricevere la conferma di documenti disponibili;
+    * ricevere un avviso di pre-ruolo.
+
+  privacy_url: https://www.comune.palagano.mo.it/footer/privacy
+  web_url: https://portale-palagano.entranext.it/
+  phone: 0536 970911
+  email: segreteria@comune.palagano.mo.it
+  pec: comune.palagano@pec.it
+  address: Via 23 Dicembre, 74 - 41046 - Palagano 
+  scope: LOCAL
+
+#
+# Municipality of Montefiorino
+#
+
+01EM1B35MHJG5G47QPS0KE0KAR:
+  description: |
+    Il servizio informa il cittadino sull'andamento delle domande online e sullo stato delle posizioni debitorie. 
+    Tramite IO potrai:
+
+    * ricevere un avviso di apertura delle iscrizioni ai servizi scolastici;
+    * ricevere un avviso di apertura di bandi per la richiesta di contributi;
+    * ricevere un messaggio relativo all'emissione di un avviso di pagamento;
+    * ricevere la conferma di documenti disponibili;
+    * ricevere un avviso di pre-ruolo.
+
+  privacy_url: https://www.comune.montefiorino.mo.it/footer/privacy
+  web_url: https://portale-montefiorino.entranext.it/
+  phone: 0536 962811
+  email: segreteria@comune.montefiorino.mo.it
+  pec: comune.montefiorino@pec.it
+  address: Via Rocca, 1 - 41045 Montefiorino 
+  scope: LOCAL
+
+#
+# Municipality of Maranello
+#
+
+01EM1B7JE2Z0PRNV23RVXTCEXC:
+  description: |
+    Il servizio informa il cittadino sull'andamento delle domande online e sullo stato delle posizioni debitorie. 
+    Tramite IO potrai:
+
+    * ricevere un avviso di apertura delle iscrizioni ai servizi scolastici;
+    * ricevere un avviso di apertura di bandi per la richiesta di contributi;
+    * ricevere un messaggio relativo all'emissione di un avviso di pagamento;
+    * ricevere la conferma di documenti disponibili;
+    * ricevere un avviso di pre-ruolo.
+
+  privacy_url: https://www.comune.maranello.mo.it/footer/privacy
+  web_url: https://portale-maranello.entranext.it/
+  phone: 0536 240000
+  email: urp@comune.maranello.mo.it
+  pec: comune.maranello@cert.comune.maranello.mo.it
+  address: Piazza Libertà, 33 - 41053 - Maranello 
+  scope: LOCAL
+
+#
+# Municipality of Frassinoro
+#
+
+01EM1B8DNCVJD7VXJ5SFPEQD44:
+  description: |
+    Il servizio informa il cittadino sull'andamento delle domande online e sullo stato delle posizioni debitorie. 
+    Tramite IO potrai:
+
+    * ricevere un avviso di apertura delle iscrizioni ai servizi scolastici;
+    * ricevere un avviso di apertura di bandi per la richiesta di contributi;
+    * ricevere un messaggio relativo all'emissione di un avviso di pagamento;
+    * ricevere la conferma di documenti disponibili;
+    * ricevere un avviso di pre-ruolo.
+
+  privacy_url: https://www.comune.frassinoro.mo.it/footer/privacy
+  web_url: https://portale-frassinoro.entranext.it/
+  phone: 0536 971811
+  email: segreteria@comune.frassinoro.mo.it
+  pec: comune.frassinoro@pec.it
+  address: Piazza Miani, 16 - 41044 - Frassinoro 
+  scope: LOCAL
+
+#
+# Municipality of Formagine
+#
+
+01EM1B9G8HCK2TM3NTF9W0N5D9:
+  description: |
+    Il servizio informa il cittadino sull'andamento delle domande online e sullo stato delle posizioni debitorie. 
+    Tramite IO potrai:
+
+    * ricevere un avviso di apertura delle iscrizioni ai servizi scolastici;
+    * ricevere un avviso di apertura di bandi per la richiesta di contributi;
+    * ricevere un messaggio relativo all'emissione di un avviso di pagamento;
+    * ricevere la conferma di documenti disponibili;
+    * ricevere un avviso di pre-ruolo.
+
+  privacy_url: https://www.comune.formigine.mo.it/footer/privacy
+  web_url: https://portale-formigine.entranext.it/
+  phone: 059 416333
+  email: urp@comune.formigine.mo.it
+  pec: comune.formigine@cert.comune.formigine.mo.it
+  address: Via Unità d'Italia, 26 - 41043 - Formigine
+  scope: LOCAL
+
+#
+# Municipality of Fiorano Modenese
+#
+
+01EM1BAAY94S0B2XNFB615M1VW:
+  description: |
+    Il servizio informa il cittadino sull'andamento delle domande online e sullo stato delle posizioni debitorie. 
+    Tramite IO potrai:
+
+    * ricevere un avviso di apertura delle iscrizioni ai servizi scolastici;
+    * ricevere un avviso di apertura di bandi per la richiesta di contributi;
+    * ricevere un messaggio relativo all'emissione di un avviso di pagamento;
+    * ricevere la conferma di documenti disponibili;
+    * ricevere un avviso di pre-ruolo.
+
+  privacy_url: https://www.comune.fiorano-modenese.mo.it/footer/privacy
+  web_url: https://portale-fiorano-modenese.entranext.it/
+  phone: 0536 833111
+  email: info@comune.fiorano-modenese.mo.it
+  pec: comunefiorano@cert.fiorano.it
+  address: Piazza Ciro Menotti, 1 - 41042 - Fiorano Modenese 
+  scope: LOCAL
+
+#
+# Municipality of Lecco
+#
+
+01EJXN09K6WA7QQPQ7YG5HA4XP:
+  description: |
+    Il servizio TARI del Comune di Lecco è disponibile sull'app IO.
+    Tramite IO potrai:
+
+    * ricevere notifiche sulle scadenze delle rate TARI;
+    * effettuare il pagamento della TARI;
+    * ricevere comunicazioni inerenti al servizio.
+
+  tos_url: http://www.comune.lecco.it/index.php/note-legali
+  privacy_url: http://www.comune.lecco.it/index.php/privacy
+  web_url: http://sportellotel.servizienti.it/lecco/
+  phone: 0341 481221
+  pec: comune@pec.comunedilecco.it
+  address: Piazza Diaz, 1 - 23900 Lecco (LC) 
+  scope: LOCAL
+
+#
+# Municipality of Afragola
+#
+
+01EKD04W78N0TM0W0CE9T4N6NV:
+  description: |
+    Il servizio di Prenotazione Appuntamenti Uffici Comunali permette di gesitre i propri appuntamenti presso glu uffici comunali. 
+    Tramite IO potrai:
+
+    * essere notificato sulla prenotazione dell'appuntamento, cambio di date e orari.
+
+  privacy_url: http://www.comune.afragola.na.it/index.php/component/content/article/236-privacy?layout=edit&Itemid=101
+  web_url: https://spid.comune.afragola.na.it/kweb/sito/comune/servizi/201483-prenotazione-appuntamenti-misure-emergenza-coronavirus
+  phone: 081 8529238
+  support_url: https://spid.comune.afragola.na.it/kweb/sito/comune/servizi/201118-contatti-per-assistenza
+  pec:  protocollo@pec.comune.afragola.na.it
+  address: Piazza Municipio, 1 - 80021 Afragola (NA)
+  scope: LOCAL
+
+
+01EK01NRM0KB14JGW25J5365QX:
+  description: |
+    Tramite il servizio di Segnalazioni Disservizi, Pericoli e Malfunzionamenti puoi sottomettere la tua segnalazione comodamente online. 
+    Tramite IO potrai:
+
+    * essere notificato in tutti i passaggi amministrativi della tua istanza
+    * ricevere allerte sul procedimento amministrativo.
+
+
+  privacy_url: http://www.comune.afragola.na.it/index.php/component/content/article/236-privacy?layout=edit&Itemid=101
+  web_url: https://spid.comune.afragola.na.it/kweb/sito/comune/servizi/categoria/200517-segnalazioni
+  phone: 081 8529238
+  support_url: https://spid.comune.afragola.na.it/kweb/sito/comune/servizi/201118-contatti-per-assistenza
+  pec:  protocollo@pec.comune.afragola.na.it
+  address: Piazza Municipio, 1 - 80021 Afragola (NA)
+  scope: LOCAL
+
+#
+# Municipality of Silea
+#
+
+01EM3Z9QAQWTWHFEV9JS5JCN0B:
+  description: |
+    Il servizio di Pagamenti per i servizi cimiteriali offre la possibilità di gestire i pagamenti direttamente attraverso l'app IO, oltre alle modalità di pagamento già previste. 
+    Tramite IO potrai ricevere avvisi per:
+
+    * pagamento delle concessioni cimiteriali;
+    * pagamento dei diritti cimiteriali;
+    * pagamento dei servizi di cremazione.
+
+  privacy_url: https://www.comune.silea.tv.it/home/info/privacy.html
+  web_url: https://silea.comune.plugandpay.it/
+  phone: 0422 365705
+  email: cimiteriali@comune.silea.tv.it
+  pec: protocollo@comune.silea.legalmail.it
+  address: Via Don Minzoni, 12 - 31057 Silea 
+  scope: LOCAL
+
+01EM3ZD0HP8K222GV9S8JPC9C4:
+  description: |
+    Il servizio di Pagamenti per uso immobili  offre la possibilità di gestire dei pagamenti direttamente attraverso l'app IO, oltre alle modalità di pagamento già previste. 
+    Tramite IO potrai ricevere avvisi per:
+
+    * pagamento utilizzo palestre;
+    * pagamento utilizzo locali.
+
+  privacy_url: https://www.comune.silea.tv.it/home/info/privacy.html
+  web_url: https://silea.comune.plugandpay.it/
+  phone: 0422 365724
+  email: servizipersona@comune.silea.tv .it
+  pec: protocollo@comune.silea.legalmail.it
+  address: Via Don Minzoni, 12 - 31057 Silea 
+  scope: LOCAL
+
+01EM3ZE3W7PBBYGSH27TSFH2DR:
+  description: |
+    Il servizio di Pagamenti per i canoni e tributi  offre la possibilità di gestire dei pagamenti direttamente attraverso l'app IO, oltre alle modalità di pagamento già previste. 
+    Tramite IO potrai ricevere avvisi per:
+
+    * pagamento affitto fabbricati;
+    * pagamento COSAP permanente e temporanea.
+
+  privacy_url: https://www.comune.silea.tv.it/home/info/privacy.html
+  web_url: https://silea.comune.plugandpay.it/
+  phone: 0422 365705
+  email: suap@comune.silea.tv.it
+  pec: protocollo@comune.silea.legalmail.it
+  address: Via Don Minzoni, 12 - 31057 Silea 
+  scope: LOCAL
+
+01EM3ZF5YGN6KGN77S0H50W865:
+  description: |
+    Il servizio di Pagamenti per i servizi sociali  offre la possibilità di gestire dei pagamenti direttamente attraverso l'app IO, oltre alle modalità di pagamento già previste. 
+    Tramite IO potrai ricevere avvisi per:
+
+    * pagamento del servizio di assistenza;
+    * pagamento dei pasti caldi a domicilio.
+
+  privacy_url: https://www.comune.silea.tv.it/home/info/privacy.html
+  web_url: https://silea.comune.plugandpay.it/
+  phone: 0422 365729
+  email: servizipersona@comune.silea.tv .it
+  pec: protocollo@comune.silea.legalmail.it
+  address: Via Don Minzoni, 12 - 31057 Silea 
+  scope: LOCAL
+
+01EM3ZGA1C6KVT7M66W4XPRA42:
+  description: |
+    Il servizio di Pagamenti per i servizi edilizia offre la possibilità di gestire dei pagamenti direttamente attraverso l'app IO, oltre alle modalità di pagamento già previste. 
+    Tramite IO potrai ricevere avvisi per:
+
+    * pagamento del contributo di costruzione;
+    * pagamento dei diritti pratiche edilizie;
+    * pagamento per striscioni ed impianti pubblicitari.
+
+  privacy_url: https://www.comune.silea.tv.it/home/info/privacy.html
+  web_url: https://silea.comune.plugandpay.it/
+  phone: 0422 365722
+  email: urbanistica@comune.silea.tv.it
+  pec: protocollo@comune.silea.legalmail.it
+  address: Via Don Minzoni, 12 - 31057 Silea 
+  scope: LOCAL
+
+01EM3ZH9NSXSCZW5ZC267H69S0:
+  description: |
+    Il servizio di Pagamenti per i servizi anagrafe offre la possibilità di gestire dei pagamenti direttamente attraverso l'app IO, oltre alle modalità di pagamento già previste. 
+    Tramite IO potrai ricevere avvisi per:
+
+    * pagamento del rimborso spese per celebrazione matrimoni e unioni civili.
+
+  privacy_url: https://www.comune.silea.tv.it/home/info/privacy.html
+  web_url: https://silea.comune.plugandpay.it/
+  phone: 0422 365727
+  email: anagrafe@comune.silea.tv.it
+  pec: protocollo@comune.silea.legalmail.it
+  address: Via Don Minzoni, 12 - 31057 Silea 
+  scope: LOCAL
+
+#
+# Municipality of Colli a Volturno
+#
+
+01EMGGTMA3N4794RMN751BVY7B:
+  description: |
+    Il Servizio Refezione Scolastica si occupa della gestione della mensa scolastica. 
+    Tramite IO potrai:
+
+    * ricevere un promemoria alla scadenza dell'iscrizione al servizio Refezione Scolastica;
+    * ricevere un promemoria alla scadenza dei Buoni Pasto.
+
+  privacy_url: https://www.comune.colliavolturno.is.it/new/amministrazione/documentation/privacy-policy.html
+  web_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201351&areaAttiva=7
+  phone: 0865 957901
+  pec: colliavolturno@pec.it
+  email: protocollo@comune.colliavolturno.is.it
+  address: Piazza Municipio, n.1 - 1° Piano
+  support_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201351
+  scope: LOCAL
+
+01EMGGV2YMEMVFGC7ED2385FJB:
+  description: |
+    Il Servizio di Anagrafe offre la possibilità di gestire i propri dati anagrafici, documenti in scadenza e dichiarazioni.
+    Tramite IO potrai:
+
+    * essere informato sulla scadenza della tua carta d'identità;
+    * ricevere un avviso che ti ricorda che il permesso di soggiorno risulta scaduto da alemno 6 mesi e che devi esibire il nuovo permesso in anagrafe;
+    * ricevere un promemoria alla scadenza dell'iscrizione al servizio Refezione Scolastica;
+    * ricevere un promemoria alla scadenza dei Buoni Pasto.
+
+  privacy_url: https://www.comune.colliavolturno.is.it/new/amministrazione/documentation/privacy-policy.html
+  web_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201351&areaAttiva=6
+  phone: 0865 957901
+  pec: colliavolturno@pec.it
+  email: protocollo@comune.colliavolturno.is.it
+  address: Piazza Municipio, n.1 - 1° Piano
+  support_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201351
+  scope: LOCAL
+
+01EMGGVCRVS672MQGPJ32YYM7R:
+  description: |
+    Il Servizio Tributi si occupa della gestione delle scadenze dei vari pagamenti. 
+    Tramite IO potrai:
+
+    * ricevere un promemoria  che ti avvisa della scadenza di pagamento della TARI, IMU, TOSAP;
+    * ricevere l'avviso di accertamento per il mancato pagamento di rate scadute, e pagare il relativo importo.
+
+  privacy_url: https://www.comune.colliavolturno.is.it/new/amministrazione/documentation/privacy-policy.html
+  web_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201351&areaAttiva=4
+  phone: 0865 957901
+  pec: colliavolturno@pec.it
+  email: protocollo@comune.colliavolturno.is.it
+  address: Piazza Municipio, n.1 - 1° Piano
+  support_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201351
+  scope: LOCAL
+
+01EMGGVX6SS8AG70B8E72X4XCM:
+  description: |
+    Il Servizio Cimiteri si occupa della riscossione dei canoni della Luce votiva e delle spese condominiali dei loculi. Tramite IO potrai:
+
+    * ricevere un promemoria che ti avvisa della scadenza di pagamento dei canoni;
+    * ricevere l'avviso di acertamento per il mancato pagamento dei canoni, e pagare il relativo importo.
+
+  privacy_url: https://www.comune.colliavolturno.is.it/new/amministrazione/documentation/privacy-policy.html
+  web_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201351&areaAttiva=9
+  phone: 0865 957901
+  pec: colliavolturno@pec.it
+  email: protocollo@comune.colliavolturno.is.it
+  address: Piazza Municipio, n.1 - 1° Piano
+  support_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201351
+  scope: LOCAL
+
+01EMGGW8P485YCE80K0KCX8A8B:
+  description: |
+    Sportello Facile è un servizio on-line che consente a tutti i cittadini di effettuare delle prenotazioni di appuntamento presso diversi sportelli. 
+    Tramite IO potrai:
+
+    * ricevere un promemoria che ti ricorda data e orario di un appuntamento prenotato presso un ufficio comunale;
+    * essere notificato in caso di modifica o disdetta dell'appuntamento.
+
+  privacy_url: https://www.comune.colliavolturno.is.it/new/amministrazione/documentation/privacy-policy.html
+  web_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201351&areaAttiva=1
+  phone: 0865 957901
+  pec: colliavolturno@pec.it
+  email: protocollo@comune.colliavolturno.is.it
+  address: Piazza Municipio, n.1 - 1° Piano
+  support_url: http://cloud.urbi.it/urbi/progs/urp/solhome.sto?DB_NAME=n201351
+  scope: LOCAL
+
+#
+# Garda Uno S.p.a.
+#
+
+01EK0738Y1HDNXFHRQZ54SQSK7:
+  description: |
+    Garda Uno svolge il Servizio di Illuminazione Votiva nei Comuni di Toscolano Maderno e di Gardone Riviera. 
+    Il servizio è rivolto a coloro che desiderano attivare un punto luminoso sulla tomba di un proprio Caro quale Luce Votiva.
+    Tramite IO potrai:
+
+    * ricevere l'avviso di pagamento all'emissione della bolletta, e procedere al pagamento.
+
+  privacy_url: https://www.gardauno.it/it/privacy-policy
+  web_url: https://www.gardauno.it/it/servizi/energia
+  phone: 030 9995401
+  pec: protocollo@pec.gardauno.it
+  address: Via Italo Barbieri 20 - 25080 Padenghe sul Garda SpA
+  support_url: www.gardauno.it
+  scope: LOCAL
+
+01EKAKNKAW7YY57P09ZT0BT3ND:
+  description: |
+    Garda Uno esercisce il Servizio di Igiene Urbana in 24 Comuni della Provincia di Brescia. Il servizio qui offerto consente il pagamento degli avvisi di pagamento emessi a fronte di specifiche prestazioni (passaggi straordinari e personalizzati, forniture di contenitori di raccolta, ecc.).
+    Tramite IO potrai:
+
+    * ricevere l'avviso di pagamento a fronte di specifiche prestazioni, e procedere al pagamento.
+
+  privacy_url: https://www.gardauno.it/it/privacy-policy
+  web_url: https://www.gardauno.it/it/servizi/igiene-urbana
+  phone: 030 9995401
+  pec: protocollo@pec.gardauno.it
+  address: Via Italo Barbieri 20 - 25080 Padenghe sul Garda SpA
+  support_url: www.gardauno.it
+  scope: LOCAL
+
 01EKAMCZ8592P034H91Y8MV7R5:
   description: |
     Garda Uno esercisce Servizi di Mobilità e di gestione di Impianti Fotovoltaici nel territorio gardesano a fronte dei quali possono essere emesse fatture con annesso un avviso di pagamento che potrà essere pagato attraverso questo canale.
